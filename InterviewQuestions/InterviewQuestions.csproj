@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="ArrayDublicates.cs" />
     <Compile Include="Fibon.cs" />
+    <Compile Include="FizzBuzz.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

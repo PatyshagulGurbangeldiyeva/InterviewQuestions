@@ -8,5 +8,17 @@ namespace InterviewQuestions
 {
     class FizzBuzz
     {
+
+        public static void Main(string[] args)
+        {
+            Console.WriteLine(FizzBuzz);
+        }
+
+        public static void FizzBuzz()
+        { 
+
+
+        }
+
     }
 }
