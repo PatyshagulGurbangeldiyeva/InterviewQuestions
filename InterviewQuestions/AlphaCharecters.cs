@@ -14,6 +14,7 @@ namespace InterviewQuestions
         {
 
             // why both of them cannot be run????
+            //when I am running just first code is executed
             Alpha("hello 12355/sjhd");
             Numeric("hjfhjshfjkh 128404 /&eks");
         }
