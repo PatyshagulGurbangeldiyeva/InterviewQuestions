@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>InterviewQuestions.AlphaCharecters</StartupObject>
+    <StartupObject>InterviewQuestions.FindDublicateWord</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="AlphaCharecters.cs" />
     <Compile Include="ArrayDublicates.cs" />
     <Compile Include="Fibon.cs" />
+    <Compile Include="FindDublicateWord.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
