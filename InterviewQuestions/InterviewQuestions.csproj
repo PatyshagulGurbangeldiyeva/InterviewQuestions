@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>InterviewQuestions.FindDublicateWord</StartupObject>
+    <StartupObject>InterviewQuestions.SecondLargest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,10 +48,13 @@
   <ItemGroup>
     <Compile Include="AlphaCharecters.cs" />
     <Compile Include="ArrayDublicates.cs" />
+    <Compile Include="DeleteDublicateWords.cs" />
     <Compile Include="Fibon.cs" />
     <Compile Include="FindDublicateWord.cs" />
     <Compile Include="FizzBuzz.cs" />
+    <Compile Include="LargestNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecondLargest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
